@@ -20,7 +20,7 @@
   <a href = "mailto:vitao10264@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-samir-batista-de-barros-da-silva-2197a9221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/victorsamir-bandtec/victorsamir-bandtec/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/victor-samir/victorsamir-bandtec/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
