@@ -2,9 +2,9 @@
 
 **Senior Front-end & Mobile Engineer / Desenvolvedor Front-end & Mobile Sênior**
 
-Sou desenvolvedor com **5+ anos de experiência** construindo interfaces web e mobile com React, Next.js, TypeScript, React Native e SwiftUI. Atuo com foco em performance, acessibilidade, componentização, integrações REST, formulários complexos, estado de aplicação e design systems.
+Sou desenvolvedor com **5+ anos de experiência** construindo interfaces web e mobile com React, Next.js, TypeScript, React Native e SwiftUI. Atuo com foco em performance, acessibilidade, componentização, integrações REST, formulários complexos, estado de aplicação, design systems e programação agentica aplicada ao ciclo de desenvolvimento.
 
-I build scalable web and mobile interfaces with React, Next.js, TypeScript, React Native and SwiftUI, with strong attention to performance, accessibility, maintainability and product experience.
+I build scalable web and mobile interfaces with React, Next.js, TypeScript, React Native and SwiftUI, using agentic coding and AI tooling to improve research, implementation, refactoring, testing and documentation workflows.
 
 ## Stack principal / Core stack
 
@@ -14,6 +14,7 @@ I build scalable web and mobile interfaces with React, Next.js, TypeScript, Reac
 | Mobile | React Native, SwiftUI, SwiftData |
 | State & Data | TanStack Query, Zustand, React Hook Form, Zod, REST APIs |
 | Quality & Tooling | Jest, Testing Library, Git, CI/CD, ESLint, Prettier |
+| AI & Agentic Coding | Codex, Claude Code, Cursor, Gemini, NotebookLM, AI-assisted debugging, refactoring and documentation |
 
 ## Projetos em destaque / Selected work
 
@@ -29,8 +30,9 @@ I build scalable web and mobile interfaces with React, Next.js, TypeScript, Reac
 - Priorizo performance, acessibilidade, consistência visual e manutenção de longo prazo.
 - Gosto de assumir ownership do front-end: arquitetura de componentes, revisão de código, padrões técnicos e suporte ao time.
 - Valorizo código simples, tipagem forte e validação nas fronteiras de dados.
+- Uso ferramentas de IA de forma pragmática para investigar código, acelerar implementação, revisar decisões técnicas e documentar conhecimento sem abrir mão de validação humana.
 
 ## Contato / Contact
 
 - LinkedIn: [victorsamir-dev](https://www.linkedin.com/in/victorsamir-dev/)
-- Email: [vitao10264@gmail.com](mailto:vitao10264@gmail.com)
+- Email: [victor.samir.barros@gmail.com](mailto:victor.samir.barros@gmail.com)
