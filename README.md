@@ -1,29 +1,36 @@
-## Oiii! Eu sou o Victor Samir
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=victorsamir-bandtec&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsamir-bandtec&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+# Victor Samir
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+**Senior Front-end & Mobile Engineer / Desenvolvedor Front-end & Mobile Sênior**
 
-##
+Sou desenvolvedor com **5+ anos de experiência** construindo interfaces web e mobile com React, Next.js, TypeScript, React Native e SwiftUI. Atuo com foco em performance, acessibilidade, componentização, integrações REST, formulários complexos, estado de aplicação e design systems.
 
-<div> 
-  <a href="https://instagram.com/samir_skt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vitao10264@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-samir-batista-de-barros-da-silva-2197a9221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+I build scalable web and mobile interfaces with React, Next.js, TypeScript, React Native and SwiftUI, with strong attention to performance, accessibility, maintainability and product experience.
 
- 
-</div>
-  
-  
-   ![Snake animation](https://github.com/victorsamir-bandtec/victorsamir-bandtec/blob/output/github-contribution-grid-snake.svg)
+## Stack principal / Core stack
 
+| Área | Tecnologias |
+| --- | --- |
+| Front-end | React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Sass |
+| Mobile | React Native, SwiftUI, SwiftData |
+| State & Data | TanStack Query, Zustand, React Hook Form, Zod, REST APIs |
+| Quality & Tooling | Jest, Testing Library, Git, CI/CD, ESLint, Prettier |
+
+## Projetos em destaque / Selected work
+
+| Projeto | Destaque técnico |
+| --- | --- |
+| [Money](https://github.com/victorsamir-bandtec/money) | App iOS em SwiftUI com arquitetura MVVM, SwiftData, widgets, testes e cuidado com acessibilidade. |
+| [next14](https://github.com/victorsamir-bandtec/next14) | Starter técnico para front-end moderno com Next.js, TypeScript, Tailwind, React Query, React Hook Form, Zod, Zustand, Jest e padronização de código. |
+| [Teste técnico](https://github.com/victorsamir-bandtec/Teste-tecnico) | Aplicação React + TypeScript + Tailwind com autenticação, rotas privadas, CRUD de posts/comentários e integração com Fake API. |
+
+## Como trabalho / How I work
+
+- Transformo requisitos de produto em interfaces estáveis, reutilizáveis e fáceis de evoluir.
+- Priorizo performance, acessibilidade, consistência visual e manutenção de longo prazo.
+- Gosto de assumir ownership do front-end: arquitetura de componentes, revisão de código, padrões técnicos e suporte ao time.
+- Valorizo código simples, tipagem forte e validação nas fronteiras de dados.
+
+## Contato / Contact
+
+- LinkedIn: [victorsamir-dev](https://www.linkedin.com/in/victorsamir-dev/)
+- Email: [vitao10264@gmail.com](mailto:vitao10264@gmail.com)
